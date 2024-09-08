@@ -20,6 +20,8 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Callable, Optional, Tuple
 
+# D
+
 # The root directory where configuration files are stored.
 XDG_CONFIG_HOME: str = os.path.expanduser(os.getenv("XDG_CONFIG_HOME", "~/.config"))
 
