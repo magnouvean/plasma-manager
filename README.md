@@ -3,19 +3,6 @@
 This project aims to provide [Home Manager][home-manager] modules which allow you
 to configure KDE Plasma using Nix.
 
-## Table of contents
-- [Manage KDE Plasma with Home Manager](#manage-kde-plasma-with-home-manager)
-- [Table of contents](#table-of-contents)
-- [Supported versions](#supported-versions)
-- [What's supported](#whats-supported)
-- [What's not well supported (at the moment)](#whats-not-well-supported-at-the-moment)
-- [What will not be supported](#what-will-not-be-supported)
-- [Getting started](#getting-started)
-- [Make your configuration more declarative with overrideConfig](#make-your-configuration-more-declarative-with-overrideconfig)
-- [Capturing Your Current Configuration with rc2nix](#capturing-your-current-configuration-with-rc2nix)
-- [Contributions and Maintenance](#contributions-and-maintenance)
-- [Special Thanks](#special-thanks)
-
 ## Supported versions
 `plasma-manager` supports both plasma 5 and plasma 6. The `trunk` branch is the
 most up-to-date branch and is mainly focused on plasma 6, but may still work on
